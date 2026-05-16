@@ -54,7 +54,23 @@ jupyter notebook analise_ml.ipynb
 
 ## Prints do Oracle
 
-[adicionar prints aqui]
+### 1. Importando os dados
+![Importando os dados](docs/prints/01%20-%20Importando%20os%20dados.png)
+
+### 2. Importando os dados (continuacao)
+![Importando os dados 2](docs/prints/02%20-%20Importando%20os%20dados.png)
+
+### 3. Selecao de colunas
+![Selecao de colunas](docs/prints/03%20-%20Importando%20os%20dados%20-%20Sele%C3%A7%C3%A3o%20de%20Colunas.png)
+
+### 4. Definicao do tipo das colunas
+![Definicao do tipo das colunas](docs/prints/04%20-%20Importando%20os%20dados%20-%20Defini%C3%A7%C3%A3o%20Tipo%20das%20Colunas.png)
+
+### 5. Dados importados
+![Dados importados](docs/prints/05%20-%20Dados%20Importados.png)
+
+### 6. Efetuando consultas
+![Efetuando consultas](docs/prints/06%20-%20Efeturando%20Consultas.png)
 
 ## Video
 
